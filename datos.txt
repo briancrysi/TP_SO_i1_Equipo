@@ -2,12 +2,7 @@ Nombre :daiana
 
 ip : 192.168.0.89 13:37
 
-Gamma 
 
-Nombre : Brian
 
-Apellido : Bracamonte
-
-IP: 159.354.0.38:87
 
  
