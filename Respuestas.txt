@@ -5,7 +5,16 @@ Apellido: Bracamonte
 A- SI puedo ver los datos de BETA y GAMMA
 
 B- Si los demás ven el archivo que subi
- GAMMA:
+
+Beta:
+Nombre: Lucas
+Apellido: Caballero
+
+C- Si los demas integrantes podran ver el archivo que se publique
+
+D- nos comunicos nosotros por un grupo de WhatsApp que hicimos
+
+GAMMA:
 Nombre: Daiana Belen Palavecino
 E- La mejor forma de comunicarse dentro de github es usando Issues para dudas y tareas,
 comentarios en los commits y Pull Request para opinar sobre el codigo. Queda registrado en el mismo lugar.
