@@ -3,3 +3,5 @@ Nombre: Brian
 Apellido: Bracamonte
 
 A- SI puedo ver los datos de BETA y GAMMA
+
+B- Si los demás ven el archivo que subi
