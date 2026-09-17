@@ -1,0 +1,5 @@
+Alfa:
+Nombre: Brian 
+Apellido: Bracamonte
+
+A- SI puedo ver los datos de BETA y GAMMA
