@@ -5,3 +5,7 @@ Apellido: Bracamonte
 A- SI puedo ver los datos de BETA y GAMMA
 
 B- Si los demás ven el archivo que subi
+ GAMMA:
+Nombre: Daiana Belen Palavecino
+E- La mejor forma de comunicarse dentro de github es usando Issues para dudas y tareas,
+comentarios en los commits y Pull Request para opinar sobre el codigo. Queda registrado en el mismo lugar.
